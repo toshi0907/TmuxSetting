@@ -1,0 +1,2 @@
+# TmuxSetting
+Tmux no settei
