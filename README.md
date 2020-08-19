@@ -1,2 +1,5 @@
 # TmuxSetting
-Tmux no settei
+
+## install
+git clone https://github.com/toshi0907/TmuxSetting
+
